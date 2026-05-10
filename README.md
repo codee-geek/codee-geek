@@ -15,7 +15,7 @@
 - Currently working on **Agentic RAG systems with autonomous workflows**
 - Exploring **Docker, Kubernetes, Monitoring & MLOps**
 - Interested in **LLMs, RAG Pipelines, AI Agents, NLP, and System Design**
-- Focused on creating production-ready AI solutions instead of toy projects
+- Focused on creating production-ready AI solutions
 
 ---
 
