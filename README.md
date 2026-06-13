@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | GenAI & Agentic AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <a href="mailto:atharvawakade7@gmail.com">Email</a> •
+  <a href="mailto:atharvawakade.work@gmail.com">Email</a> •
   <a href="https://github.com/codee-geek">GitHub</a> •
   <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
