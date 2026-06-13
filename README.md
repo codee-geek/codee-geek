@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:atharvawakade.work@gmail.com">Email</a> •
   <a href="https://github.com/codee-geek">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/atharva-wakade">LinkedIn</a>
 </p>
 
 ---
